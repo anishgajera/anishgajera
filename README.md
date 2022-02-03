@@ -4,8 +4,8 @@ My name is **Anish Gajera** and I am currently working at **iCode - Plano as Tea
 **Certifications: MOS Word 2016, MOS Excel 2016, MOS Access 2016.**
 
 ---
-- 🚀 Team Lead/Instructor at [iCode - Plano](https://icodeschool.com/)
-- 📖 Learning all about ** MIPS, OOP, AI, Machine Learning**.
+- 🚀 Team Lead/Instructor at [iCode - Plano](https://icodeschool.com/plano109/)
+- 📖 Learning all about **MIPS, Backend, OOP, AI, Machine Learning**.
 - 🤝 Looking to create and collaborate on open source/commercial projects.
 - 💬 Ping me about **videogames**, **food**, **development**, and **projects**.
 
