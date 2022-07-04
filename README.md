@@ -5,7 +5,7 @@ My name is **Anish Gajera** and I am currently working at **iCode - Plano as Tea
 
 ---
 - 🚀 Team Lead/Instructor at [iCode - Plano](https://icodeschool.com/plano109/)
-- 📖 Learning all about **MIPS, Backend, OOP, AI, Machine Learning**.
+- 📖 Learning all about **Data Structures, Backend, OOP, AI, Machine Learning**.
 - 🤝 Looking to create and collaborate on open source/commercial projects.
 - 💬 Ping me about **videogames**, **food**, **development**, and **projects**.
 
