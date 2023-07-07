@@ -5,7 +5,7 @@ My name is **Anish Gajera** and I am currently working at **State Farm as a Tech
 
 ---
 - 🚀 Technical Analyst Intern at [State Farm]()
-- 📖 Learning all about **Data Structures, Backend, OOP, AI, Machine Learning**.
+- 📖 Learning all about **Data Structures, Full-stack, OOP, AI, Machine Learning**.
 - 🤝 Looking to create and collaborate on open source/commercial projects.
 - 💬 Ping me about **videogames**, **food**, **development**, and **projects**.
 
